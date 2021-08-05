@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  background-color: rgb(199, 214, 243);
+}
+
+.dog{
+width: 40%
+}
+
+.dog h3 {
+  text-decoration: underline;
+  color: rgba(192, 83, 83, 0.959);
+}
+
+img {
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+  border: 3px solid rgb(223, 127, 92);
+}
+.cat{
+width: 40%;
+}
+
+.cat h3 {
+  color: rgb(122, 53, 3);
+}
+.turtle {
+width: 40%;
+}
+
+.turtle h3 {
+  color: darkgreen;
+}
+
+.animals {
+  display: block;
+  width: 75%;
+  height: auto;
+  margin:auto;
+}
+
+.animals p {
+  border: 2px solid black;
+  box-sizing: border-box;
+  padding: 4px;
+}
