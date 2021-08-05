@@ -7,7 +7,7 @@
 ## Technologies Used
 
 * HTML
-* CSS_
+* CSS
 
 ## Description
 
